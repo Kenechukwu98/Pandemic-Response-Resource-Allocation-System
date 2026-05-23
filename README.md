@@ -10,3 +10,7 @@ Confirmed Cases Trend
 Top Regions By Average Resource Need Score
 Vulnerability vs Resource Needs
 Drivers Of Resources Need Score
+
+Dashboard Interaction - <a href='https://github.com/Kenechukwu98/Pandemic-Response-Resource-Allocation-System/blob/main/Pandemic_Project_Report.pdf%20-%20WPS%20Office%205_22_2026%2010_56_56%20AM.png'>Pandemic Response Data</a>
+
+Process -
