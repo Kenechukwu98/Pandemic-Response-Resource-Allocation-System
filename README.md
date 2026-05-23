@@ -6,10 +6,14 @@ This report explores a public health dataset designed to support pandemic respon
 - <a href="https://github.com/Kenechukwu98/Pandemic-Response-Resource-Allocation-System/blob/main/pandemic_response_resource_allocation_dataset2.xlsx">Pandemic Response Data</a>
 
 ## KPIs
-Confirmed Cases Trend
-Top Regions By Average Resource Need Score
-Vulnerability vs Resource Needs
-Drivers Of Resources Need Score
+Confirmed Cases Trend,
+
+Top Regions By Average Resource Need Score,
+
+Vulnerability vs Resource Needs,
+
+Drivers Of Resources Need Score,
+
 
 Dashboard Interaction - <img width="1032" height="624" alt="Pandemic_Project_Report pdf - WPS Office 5_22_2026 10_56_56 AM" src="https://github.com/user-attachments/assets/4a17e588-83db-44bd-9bbe-d5f7cd328303" />
 
