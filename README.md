@@ -11,7 +11,7 @@ Top Regions By Average Resource Need Score
 Vulnerability vs Resource Needs
 Drivers Of Resources Need Score
 
-Dashboard Interaction - <a href='https://github.com/Kenechukwu98/Pandemic-Response-Resource-Allocation-System/blob/main/Pandemic_Project_Report.pdf%20-%20WPS%20Office%205_22_2026%2010_56_56%20AM.png'>Pandemic Response Data</a>
+Dashboard Interaction - <img width="1032" height="624" alt="Pandemic_Project_Report pdf - WPS Office 5_22_2026 10_56_56 AM" src="https://github.com/user-attachments/assets/4a17e588-83db-44bd-9bbe-d5f7cd328303" />
 
 Process - <a href='https://github.com/Kenechukwu98/Pandemic-Response-Resource-Allocation-System/blob/main/pandemic_response_resource_allocation_PREDICT_MOD1%205_23_2026%201_37_50%20PM.png'>Pandemic Response Data</a>
 - <a href='https://github.com/Kenechukwu98/Pandemic-Response-Resource-Allocation-System/blob/main/pandemic_response_resource_allocation_PREDICT_MOD2%205_23_2026%201_38_06%20PM.png'>Pandemic Response Data</a>
